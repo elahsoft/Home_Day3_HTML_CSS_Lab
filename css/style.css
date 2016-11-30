@@ -1,0 +1,50 @@
+.center{
+	text-align: center;
+	color: blue;
+}
+.header{
+	background-color: blue;
+	color: #fff;
+}
+.menu{
+	color:dark-blue;
+	border: 2px solid gold;
+	border-radius: 5;
+	width: 300px;
+	height: 500px;
+	padding: 25px;
+    margin: 25px;
+}
+#menu_title{
+	text-decoration: underline;
+}
+.menu_item{
+	font-size: 14px;
+	font-weight: bold;
+	color: gray;
+	text-align: left;
+	padding: 10px;
+}
+.item{
+	padding: 20px;
+}
+.login{
+	color:dark-blue;
+	border: 2px solid gold;
+	border-radius: 5;
+	width: 800px;
+	height: 500px;
+	padding: 25px;
+    margin: 25px;
+}
+#login_title{
+	text-decoration: underline;
+}
+.form_element{
+	text-align: left;
+	font-size: 14px;
+}
+#submit{
+	margin-top: 10px;
+	border: 5px solid gold;
+}
